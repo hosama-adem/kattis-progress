@@ -1,0 +1,2 @@
+#hos
+print(Hello world)
